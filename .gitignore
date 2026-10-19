@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+archive/
+archive.zip
+data/eye_state/
+data/sequences/
+models/*.pt
